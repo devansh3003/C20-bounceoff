@@ -1,2 +1,3 @@
-# bounceOffAlgorithm
-Algorithm to bounce off two objects
+# C20 bounceoff
+
+https://devansh3003.github.io/C20-bounceoff/
